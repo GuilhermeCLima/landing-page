@@ -107,9 +107,14 @@ h4{
 }
 .margemTopo{
     margin-top: 70px;
-    background-image: linear-gradient( rgb(212, 95, 104, 1.0),  rgba(219, 195, 197, 0.9) );
-    color: #ffffff;
-
+    background-color: #d45f68;
+    color: #ffffff; 
+}
+.m-30{
+    margin-left:40px;
+    margin-right:40px;
+}
+label{
+    margin-right:10px;
     
-     
 }
